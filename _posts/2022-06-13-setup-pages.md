@@ -1,24 +1,9 @@
 ---
 layout: post
-title: How to set up a website in 5 minutes
-date: 2022-06-10 12:00:00 +0200
+title: Spotkanie majowe 2022
+date: 2022-05-29 12:00:00 +0200
 description: 
-img: github-pages.jpg
-tags: [IT, web development] # add tag
+img: meet220529.jpg
+tags: [spotkania, wiosna] # add tag
 ---
-1. Clone a Github repo with one of the free Jekyll templates. For example, this website uses [flexible-jekyll](https://jekyllthemes.io/theme/flexible-jekyll) theme.  or 
-
-2. Publish on Github Pages following the instructions [here](https://pages.github.com/). In short:
-- if your repo adress is https://github.com/user/repo, then your website will be published at https://user.github.io/repo,
-- however, you can rename your repo to user.github.io which will publish your website at https://user.github.io without any subdomain,
-- make sure that  the content of your Jekyll config file _config.yml matches the address of the Github repo:
->baseurl: "" 
->url: "https://user.github.io
-
-3. If you want to build the website locally to preview the changes before pushing them to the public repo:
-- first set up a server and click on the url to open it in a browser:
-> jekyll s
-- then, after every change you want to see applied in the website, just build without setting up a new server
-> jekyll b
-- refresh the website in your browser.
-  
+Kolejne wspaniałe spotkanie za nami, dziękujemy za liczne przybycie oraz podzielenie się własnymi specjałami oraz ciekawymi przemyśleniami. Jeśli chcesz mieć dostęp do reszty zdjęć, wyślij maila z prośbą na adres w prawym dolnym rogu. 
