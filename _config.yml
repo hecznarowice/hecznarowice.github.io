@@ -7,14 +7,14 @@ url: "https://hecznarowice.github.io" # the base hostname & protocol for your si
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Alina Stobinska-Chrapkiewicz # add your name
-author-img: kajetan.jpg # add your photo
-about-author: Zielarka, lekarz, ogrodniczka, strażniczka Ziemi.
+author: CDKiP Hecznarowice # add your name
+author-img: serce.jpg # add your photo
+about-author: Centrum Dziedzictwa Kulturowego i Przyrodniczego w Hecznarowicach.
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
-social-github: kmch # add your Github handle
+social-github: hecznarowice # add your Github handle
 #social-linkedin: # add your Linkedin handle
-social-email: kajetan.chrapkiewicz@gmail.com # add your Email address
+social-email: centrum.hecznarowice@gmail.com # add your Email address
 
 # Disqus
 #discus-identifier:  # add your discus identifier
